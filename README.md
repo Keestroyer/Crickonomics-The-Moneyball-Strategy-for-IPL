@@ -1,11 +1,11 @@
-#🏏 IPL Moneyball Analytics – Crickonomics
+# 🏏 IPL Moneyball Analytics – Crickonomics
 A Data-Driven Approach to Building a Competitive IPL Team
 
 This project applies analytics and machine learning to the Indian Premier League (IPL) with the goal of constructing a competitive, low-budget franchise using only objective performance metrics — inspired by the Moneyball philosophy.
 
 Instead of relying on reputation or star power, we evaluated players using statistical modeling, predicted auction prices, and tested team performance through large-scale simulations.
 
-###📌 Important Note on Code Availability
+### 📌 Important Note on Code Availability
 
 Due to college academic policies and project restrictions, the source code and notebooks used for modeling cannot be uploaded publicly on GitHub.
 However, this repository contains:
@@ -20,7 +20,7 @@ The project presentation slides
 
 This README explains the complete methodology so the workflow and findings remain fully transparent and reproducible in concept.
 
-##🎯 Project Objective
+## 🎯 Project Objective
 
 Build an IPL team primarily from unsold / undervalued players
 
@@ -30,7 +30,7 @@ Use analytics instead of intuition for selection
 
 Validate competitiveness using simulation
 
-##📂 Repository Contents
+## 📂 Repository Contents
 1. Data
 
 Player statistics for 300+ IPL players
@@ -51,8 +51,8 @@ Presentation (PDF): Summary slides explaining workflow
 
 Poster (PDF): Presented at the NMIMS 23rd University Day Symposium
 
-##🧠 Methodology Overview
-####1️⃣ Player Rating System
+## 🧠 Methodology Overview
+#### 1️⃣ Player Rating System
 
 Three approaches were compared:
 
@@ -78,7 +78,7 @@ Consistency Scores
 
 PCA on engineered features provided the most realistic evaluation of T20 performance.
 
-####2️⃣ Auction Price Prediction
+#### 2️⃣ Auction Price Prediction
 
 Models tested:
 
@@ -90,7 +90,7 @@ K-Nearest Neighbours (Best – R² ≈ 0.53)
 
 This helped estimate the expected cost of each target player and identify high value-for-money picks.
 
-####3️⃣ Team Formation
+#### 3️⃣ Team Formation
 
 Initial squad from unsold players: ₹54 Cr
 
@@ -113,7 +113,7 @@ Riyan Parag – ₹12 Cr
 ➡ Final Squad Cost: ₹94.64 Cr
 ➡ Lower than all existing IPL teams
 
-####4️⃣ Performance Validation
+#### 4️⃣ Performance Validation
 
 Simulated 1,000,000 IPL seasons
 
@@ -129,7 +129,7 @@ Championship Probability: 10.44%
 
 The team built mainly from unsold players performed on par with several real franchises.
 
-###📈 Key Learnings
+### 📈 Key Learnings
 
 Data analytics can uncover hidden talent ignored in auctions
 
@@ -139,7 +139,7 @@ Budget-efficient teams can still be highly competitive
 
 Simulation helps validate decisions before real investment
 
-###🧩 Limitations
+### 🧩 Limitations
 
 Auction dynamics (brand value, bidding wars) not fully modeled
 
@@ -149,7 +149,7 @@ Player form treated as static in simulations
 
 Dataset size restricted to available seasons
 
-###🚀 Future Scope
+### 🚀 Future Scope
 
 Context-aware ratings (venue, opposition, match phase)
 
@@ -159,7 +159,7 @@ Advanced price prediction using deep learning
 
 Player synergy & matchup analysis
 
-##👥 Team
+## 👥 Team
 
 Keegan Nunes – NSOMASA, Mumbai
 
@@ -171,7 +171,7 @@ Shitiz Gupta
 
 Project presented at SVKM NMIMS – 23rd University Day Poster Symposium, representing NSOMASA Mumbai Campus.
 
-##📬 Contact
+## 📬 Contact
 
 I’d love to discuss this project, sports analytics, or data science opportunities.
 
