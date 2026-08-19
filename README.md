@@ -163,11 +163,11 @@ Player synergy & matchup analysis
 
 Keegan Nunes – NSOMASA, Mumbai
 
-Shrey Agarwal
+Shrey Agarwal - NSOMASA, Mumbai
 
-Shashvath Arun
+Shashvath Arun - NSOMASA, Mumbai
 
-Shitiz Gupta
+Shitiz Gupta - NSOMASA, Mumbai
 
 Project presented at SVKM NMIMS – 23rd University Day Poster Symposium, representing NSOMASA Mumbai Campus.
 
@@ -175,6 +175,6 @@ Project presented at SVKM NMIMS – 23rd University Day Poster Symposium, repres
 
 I’d love to discuss this project, sports analytics, or data science opportunities.
 
-Connect with me on LinkedIn: [your link]
+Connect with me on LinkedIn: https://www.linkedin.com/in/keegannuness
 
 ⭐ If you find the methodology interesting, feel free to star this repository!
